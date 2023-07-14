@@ -1,0 +1,11 @@
+<nav class="nav nav-underline">
+  <a class="nav-item nav-link link-body-emphasis active" routerLink="/product"
+    >Tüm Ürünler</a
+  >
+  <a
+    *ngFor="let category of categories"
+    class="nav-item nav-link link-body-emphasis active"
+    routerLink="/product/category/{{ category.id }}"
+    >{{ category.name }}</a
+  >
+</nav>
