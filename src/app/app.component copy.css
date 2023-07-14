@@ -5,8 +5,8 @@
 }
 
 /*
-     * Sidebar
-     */
+   * Sidebar
+   */
 
 @media (min-width: 768px) {
   .sidebar .offcanvas-lg {
@@ -33,8 +33,8 @@
 }
 
 /*
-     * Navbar
-     */
+   * Navbar
+   */
 
 .navbar-brand {
   padding-top: 0.75rem;
