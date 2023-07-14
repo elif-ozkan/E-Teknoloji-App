@@ -1,6 +1,6 @@
-# Shop
+# E-Teknoloji App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+Ana Sayfada Tüm Ürünler Açıklamalarıyla birlikte gözükür
 
 ## Development server
 
